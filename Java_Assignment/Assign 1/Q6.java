@@ -1,3 +1,4 @@
+//printing value of a float type variable 
 public class Q6 {
     public static void main (String [] args){
         float x=3.5f;
