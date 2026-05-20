@@ -1,0 +1,10 @@
+.vscode
+*.log
+*.iml
+Desktop.iml
+.idea
+..gitignore.swp
+.gitig
+*.json
+*.class
+

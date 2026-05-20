@@ -25,8 +25,9 @@ public class Q4 {
         
         x=x/10;
         g=x%10;
-        
-         System.out.println("the sum of digits is : "+(a+b+c+d+e+f+g+last_digit));
+
+            System.out.println("the sum of digits is : "+(a+b+c+d+e+f+g+last_digit));   
+
       
     }
 }
