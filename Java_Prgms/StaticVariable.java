@@ -4,10 +4,11 @@ class Static {
     
 }
 
-public class StaticMember {
+public class StaticVariable{
    public static void main (String [] args){
- Static s1 = new Static();
- Static s2 = new Static();
+
+    Static s1 = new Static();
+    Static s2 = new Static();
  
 
  System.out.println("x="+s1.x+"y="+s1.y);
