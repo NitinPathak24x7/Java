@@ -1,3 +1,4 @@
+// To check whether is divisble by 5 or 7 or neither
 public class q10 {
     public static void main(String [] args){
         int x=367;
